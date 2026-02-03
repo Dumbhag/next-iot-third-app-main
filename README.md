@@ -2,5 +2,6 @@
 
 ## เว็บคำนวณผลรวมต่างๆ BMI Calculator, BMR Calculator, Car Installment
 
-<img width="1008" height="790" alt="image" src="https://github.com/user-attachments/assets/c9588afe-9db3-4f98-8b37-007196510063" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f881b9de-78ba-499e-8218-8cbbefe3e925" />
+
 
